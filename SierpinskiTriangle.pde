@@ -14,7 +14,7 @@ public void draw()
 }
 public void mousePressed(){
   count++;
-  if(count < 7){
+  if(count < 9){
   sizes /= 2;
   background(0);
   sierpinski(0, 500, len);
