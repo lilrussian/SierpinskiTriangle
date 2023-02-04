@@ -1,6 +1,6 @@
 int len = 500;
 int siz = 500;
-int count = 0;
+int count = 7;
 public void setup()
 {
 	size(500, 500);
